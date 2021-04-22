@@ -1,7 +1,7 @@
 {
   "name": "@msgis/tus-node-server",
   "description": "Node.js tus server",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/msgis/tus-node-server"
